@@ -1,3 +1,3 @@
-var sayHello = function(){
-    
-}
+const log = require('./logger')
+
+log('message')
